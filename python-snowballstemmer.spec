@@ -5,9 +5,9 @@
 Summary:	This package provides 16 stemmer algorithms
 
 Name:		python-snowballstemmer
-Version:	1.2.1
+Version:	1.9.0
 Release:	5
-Source0:	https://pypi.python.org/packages/20/6b/d2a7cb176d4d664d94a6debf52cd8dbae1f7203c8e42426daa077051d59c/snowballstemmer-%{version}.tar.gz
+Source0:	https://files.pythonhosted.org/packages/a0/5e/d9ead2d57d39b3e1c1868ce84212319e5543a19c4185dce7e42a9dd968b0/snowballstemmer-1.9.0.tar.gz
 License:	BSD
 Group:		Development/Python
 Url:		https://pypi.python.org/pypi/snowballstemmer
