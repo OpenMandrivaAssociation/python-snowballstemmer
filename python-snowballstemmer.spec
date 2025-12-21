@@ -12,6 +12,7 @@ Group:		Development/Python
 Url:		https://pypi.python.org/pypi/snowballstemmer
 BuildArch:	noarch
 BuildSystem:	python
+BuildRequires:	make
 BuildRequires:	python%{pyver}dist(setuptools)
 
 %description
