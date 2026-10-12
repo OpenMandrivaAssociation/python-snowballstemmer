@@ -1,7 +1,7 @@
 # disable these for bootstrapping nose and sphinx
 %bcond_with tests
 
-Summary:	This package provides 16 stemmer algorithms
+Summary:	36 stemmers for 34 languages, generated from Snowball algorithms
 
 Name:		python-snowballstemmer
 Version:	3.1.1
@@ -16,8 +16,8 @@ BuildRequires:	make
 BuildRequires:	python%{pyver}dist(setuptools)
 
 %description
-This package provides 16 stemmer algorithms (15 + Poerter English stemmer)
-generated from Snowball algorithms.
+This package provides 36 stemmers for 34 languages, generated from
+Snowball algorithms.
 
 %check
 %if %{with tests}
