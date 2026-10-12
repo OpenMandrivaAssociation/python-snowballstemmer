@@ -4,7 +4,7 @@
 Summary:	This package provides 16 stemmer algorithms
 
 Name:		python-snowballstemmer
-Version:	3.0.1
+Version:	3.1.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/snowballstemmer/snowballstemmer-%{version}.tar.gz
 License:	BSD
